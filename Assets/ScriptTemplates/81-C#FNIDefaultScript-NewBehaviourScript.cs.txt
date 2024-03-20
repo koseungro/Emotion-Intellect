@@ -1,0 +1,20 @@
+﻿/// 작성자: #AUTHOR#
+/// 작성일: #DATE#
+/// 수정일: 
+/// 저작권: Copyright(C) FNI Co., LTD. 
+/// 수정이력
+
+using FNI;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace FNI
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+		
+
+
+    }
+}

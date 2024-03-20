@@ -1,0 +1,6 @@
+{
+    "startTime": "2020-08-26T18-40-07",
+    "endTime": "2020-08-26T18-40-32",
+    "recordData": [],
+    "category1": "test"
+}

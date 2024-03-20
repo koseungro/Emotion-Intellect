@@ -1,0 +1,6 @@
+{
+    "startTime": "2020-09-15_20-10",
+    "endTime": "2020-09-15_20-12",
+    "recordData": [],
+    "recName": ""
+}
