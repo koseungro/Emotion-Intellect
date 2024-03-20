@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d9a0cd758ee224fbc67dc3e1cf824e, type: 3}
+  m_Name: Content4_1
+  m_EditorClassIdentifier: 
+  ContentsName: Content4_1
+  isFirst: 0
+  isSecond: 0
+  isRock: 0
+  ContentsList:
+  - contentType: 6
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 1
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 7
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 1111111111111111111111111111
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0.25
+    zPos: 0
+    buttonData:
+    - {fileID: 11400000, guid: 2203f4f760da3c943a59d8e0e8cfcaa6, type: 2}
+    - {fileID: 11400000, guid: a0726a1522fb9104f84540ae5dbb9205, type: 2}
+    nextContentsList:
+    - {fileID: 11400000, guid: b2798aa802e862645876e5d777c39713, type: 2}
+    - {fileID: 11400000, guid: 32f45fe68b3135c44ae3f526e4bf34fb, type: 2}
+  - contentType: 9
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0.5
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 2
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d9a0cd758ee224fbc67dc3e1cf824e, type: 3}
+  m_Name: 05_40F_2
+  m_EditorClassIdentifier: 
+  ContentsName: 05_40F_2
+  isFirst: 0
+  isSecond: 0
+  isRock: 0
+  ContentsList:
+  - contentType: 6
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 1
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 3
+    emotionVideoOption: 0
+    movieName: "#5_40 \uC5EC_2.mp4"
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 9
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0.5
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 2
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 4
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 73
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 1
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 12
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
+  - contentType: 2
+    emotionVideoOption: 0
+    movieName: 
+    animationName: 
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []

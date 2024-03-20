@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FNIUnityEngine.hjchae.Drawing</name>
+    </assembly>
+    <members>
+        <member name="T:FNIUnityEngine.hjchae.fniTextureDrawing">
+            <summary>
+            Texture2D의 확장 클래스.
+            Unity에서 제공되는 System.Drawing.dll 이 필요
+            </summary>
+        </member>
+        <member name="M:FNIUnityEngine.hjchae.fniTextureDrawing.DrawRectange(UnityEngine.Texture2D,UnityEngine.Color,UnityEngine.Rect)">
+            <summary>
+            텍스처 이미지에 사각형 라인을 그림.
+            Texture가 쓰기 가능해야 하며, ARGB32, RGBA32, RGB24, Alpha8 이거나 UnityEngine.Texture2D:EncodeToPNG() 함수가 실행가능한 포맷이어야 함.
+            </summary>
+            <param name="texture">대상 텍스처.</param>
+            <param name="color">사각형 선 색생</param>
+            <param name="rect">사각형 영역</param>
+        </member>
+        <member name="M:FNIUnityEngine.hjchae.fniTextureDrawing.Clear(UnityEngine.Texture2D,UnityEngine.Color)">
+            <summary>
+            Texture의 전체 이미지 영역을 특정 색상으로 지움.
+            Texture가 쓰기 가능해야 하며, ARGB32, RGBA32, RGB24, Alpha8 이거나 UnityEngine.Texture2D:EncodeToPNG() 함수가 실행가능한 포맷이어야 함.
+            </summary>
+            <param name="texture">The texture.</param>
+            <param name="color">The color.</param>
+        </member>
+        <member name="M:FNIUnityEngine.hjchae.fniTextureDrawing.FillRectange(UnityEngine.Texture2D,UnityEngine.Color,UnityEngine.Rect)">
+            <summary>
+            Texture 이미지에 채워진 사각형을 그림
+            Texture가 쓰기 가능해야 하며, ARGB32, RGBA32, RGB24, Alpha8 이거나 UnityEngine.Texture2D:EncodeToPNG() 함수가 실행가능한 포맷이어야 함.
+            </summary>
+            <param name="texture">The texture.</param>
+            <param name="color">The color.</param>
+            <param name="rect">The rect.</param>
+        </member>
+        <member name="M:FNIUnityEngine.hjchae.fniTextureDrawing.DrawText(UnityEngine.Texture2D,UnityEngine.Color,System.String,System.String,System.Single,UnityEngine.Vector2)">
+            <summary>
+            Texture 이미지에 글씨를 씀.
+            Texture가 쓰기 가능해야 하며, ARGB32, RGBA32, RGB24, Alpha8 이거나 UnityEngine.Texture2D:EncodeToPNG() 함수가 실행가능한 포맷이어야 함.
+            </summary>
+            <param name="texture">The texture.</param>
+            <param name="color">The color.</param>
+            <param name="text">The text.</param>
+            <param name="fontFamily">The font family.</param>
+            <param name="fontSize">Size of the font.</param>
+            <param name="position">The position.</param>
+        </member>
+    </members>
+</doc>

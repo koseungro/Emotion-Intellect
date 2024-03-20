@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7ef6fe8030d4b440b6562d204d5b346, type: 3}
+  m_Name: SelfPracticeButton
+  m_EditorClassIdentifier: 
+  buttonName: 
+  IsChangeText: 0
+  IsFlexibility: 0
+  IsChangeFontSize: 0
+  FontSize: 36
+  FontMargin: 120
+  size: {x: 0, y: 0}
+  useEvent: 8
+  useImageSize: 1
+  useTextColor: 0
+  useImageColor: 0
+  useImage: 1
+  useIconColor: 0
+  useIcon: 0
+  useScale: 1
+  isObject: 0
+  transitionTime: 0.1
+  Base:
+    type: 0
+    TextColor: {r: 1, g: 1, b: 1, a: 0}
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+    IconColor: {r: 1, g: 1, b: 1, a: 0}
+    Image: {fileID: 0}
+    Icon: {fileID: 0}
+    Scale: {x: 1, y: 1, z: 1}
+  Default:
+    type: 1
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+    IconColor: {r: 1, g: 1, b: 1, a: 1}
+    Image: {fileID: 21300000, guid: 48ae95321dd839947a213cb887473441, type: 3}
+    Icon: {fileID: 0}
+    Scale: {x: 1, y: 1, z: 1}
+  Hover:
+    type: 2
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+    IconColor: {r: 1, g: 1, b: 1, a: 1}
+    Image: {fileID: 21300000, guid: 48ae95321dd839947a213cb887473441, type: 3}
+    Icon: {fileID: 0}
+    Scale: {x: 1.1, y: 1.1, z: 1.1}
+  Press:
+    type: 3
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+    IconColor: {r: 1, g: 1, b: 1, a: 1}
+    Image: {fileID: 21300000, guid: 99f36f3c78b7ced4fa846dfa75e437ef, type: 3}
+    Icon: {fileID: 0}
+    Scale: {x: 1.1, y: 1.1, z: 1.1}
+  Disable:
+    type: 4
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+    ImageColor: {r: 1, g: 1, b: 1, a: 1}
+    IconColor: {r: 1, g: 1, b: 1, a: 1}
+    Image: {fileID: 21300000, guid: 48ae95321dd839947a213cb887473441, type: 3}
+    Icon: {fileID: 0}
+    Scale: {x: 1, y: 1, z: 1}

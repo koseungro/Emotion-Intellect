@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: f03af25a5e3a1ea4e98bbbc198e30e10
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base_01
+    100002: base_02
+    100004: base_03
+    100006: handrail_000
+    100008: handrail_001
+    100010: handrail_002
+    100012: handrail_003
+    100014: handrail_004
+    100016: handrail_005
+    100018: handrail_006
+    100020: //RootNode
+    100022: stair
+    100024: Wall_seat
+    100026: grass
+    100028: sea
+    100030: Line001
+    100032: Line002
+    400000: base_01
+    400002: base_02
+    400004: base_03
+    400006: handrail_000
+    400008: handrail_001
+    400010: handrail_002
+    400012: handrail_003
+    400014: handrail_004
+    400016: handrail_005
+    400018: handrail_006
+    400020: //RootNode
+    400022: stair
+    400024: Wall_seat
+    400026: grass
+    400028: sea
+    400030: Line001
+    400032: Line002
+    2100000: mat_wood_01
+    2100002: mat_wood_02
+    2100004: Wall_seat
+    2100006: Wall_support
+    2300000: base_01
+    2300002: base_02
+    2300004: base_03
+    2300006: handrail_000
+    2300008: handrail_001
+    2300010: handrail_002
+    2300012: handrail_003
+    2300014: handrail_004
+    2300016: handrail_005
+    2300018: handrail_006
+    2300020: stair
+    2300022: Wall_seat
+    2300024: grass
+    2300026: sea
+    3300000: base_01
+    3300002: base_02
+    3300004: base_03
+    3300006: handrail_000
+    3300008: handrail_001
+    3300010: handrail_002
+    3300012: handrail_003
+    3300014: handrail_004
+    3300016: handrail_005
+    3300018: handrail_006
+    3300020: stair
+    3300022: Wall_seat
+    3300024: grass
+    3300026: sea
+    4300000: base_02
+    4300002: base_01
+    4300004: stair
+    4300006: handrail_006
+    4300008: handrail_000
+    4300010: handrail_001
+    4300012: handrail_002
+    4300014: handrail_003
+    4300016: handrail_004
+    4300018: handrail_005
+    4300020: base_03
+    4300022: Wall_seat
+    4300024: sea
+    4300026: grass
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 622a0678c275cd245acb8661f4fa2810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_seat
+    second: {fileID: 2100000, guid: e65fe5e4ce0b85b4784fc7fc249e18b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_support
+    second: {fileID: 2100000, guid: 93d88409b55fbde419fba9cfe30faccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_01
+    second: {fileID: 2100000, guid: c443f629f1788e74fb54c89365f93834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_01
+    second: {fileID: 2100000, guid: 7d36f50e62c28ac4c86b32da7c8ebe1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_wood_02
+    second: {fileID: 2100000, guid: 3f6e4d610a8d27145b3c2464995f211d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

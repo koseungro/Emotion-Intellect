@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d9a0cd758ee224fbc67dc3e1cf824e, type: 3}
+  m_Name: PositiveSelfDiagnosis
+  m_EditorClassIdentifier: 
+  ContentsName: PositiveSelfDiagnosis
+  isFirst: 0
+  isSecond: 0
+  isRock: 0
+  ContentsList:
+  - contentType: 11
+    emotionVideoOption: 0
+    movieName: 
+    animationName: PositiveSelfDiagnosis
+    guideComment: 
+    delayTime: 0
+    waitVideoTime: 0
+    xPos: 0
+    yPos: 0
+    zPos: 0
+    buttonData: []
+    nextContentsList: []
